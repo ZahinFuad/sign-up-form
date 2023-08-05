@@ -1,0 +1,11 @@
+.row {
+    display: flex;
+}
+
+#background {
+    flex: 50%;
+}
+
+#form {
+    flex: 50%;
+}
